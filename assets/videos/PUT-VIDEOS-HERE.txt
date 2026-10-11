@@ -1,0 +1,4 @@
+Drop two MP4 files here (keep these exact names; the site shows the photo until they exist):
+  hero-kitchen.mp4    -> home page hero (portrait/landscape both fine). Search "modular kitchen" / "kitchen interior" on pexels.com/videos
+  showroom-loop.mp4   -> home page showroom band. Search "kitchen" on pixabay.com/videos, mixkit.co, coverr.co or videvo.net
+Tips: 5-15 seconds, no audio, under 4 MB each (compress with HandBrake: H.264, 720p, RF 28).
