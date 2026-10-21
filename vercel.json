@@ -1,0 +1,11 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/modular-kitchen-rajkot", "destination": "/modular-kitchen-rajkot.html" },
+    { "source": "/modular-wardrobe-rajkot", "destination": "/modular-wardrobe-rajkot.html" },
+    { "source": "/modular-furniture-rajkot", "destination": "/modular-furniture-rajkot.html" },
+    { "source": "/for-interior-designers", "destination": "/for-interior-designers.html" },
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/contact", "destination": "/contact.html" }
+  ]
+}
